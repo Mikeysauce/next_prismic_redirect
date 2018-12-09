@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react';
 import App, { Container } from 'next/app';
-import Link from 'next/link'
+import Link from 'next/link';
 
 const Layout = ({ children }) => (
 	<Fragment>
