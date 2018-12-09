@@ -1,0 +1,1 @@
+export default (props) => <p>'standard innit {JSON.stringify(props)}</p>
